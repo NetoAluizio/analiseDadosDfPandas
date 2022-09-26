@@ -1,2 +1,2 @@
 # analiseDadosDfPandas
-Análise exploratória de arquivo csv, utilizando a biblioteca pandas.
+Análise exploratória de arquivo xlsx, utilizando a biblioteca pandas.
